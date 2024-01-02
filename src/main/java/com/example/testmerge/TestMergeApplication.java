@@ -10,6 +10,7 @@ public class TestMergeApplication {
         SpringApplication.run(TestMergeApplication.class, args);
 
         // sub 브랜치의 추가 코드
+        // sub 브랜치의 추가 코드 2
     }
 
 }
