@@ -8,6 +8,8 @@ public class TestMergeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestMergeApplication.class, args);
+
+        // main 브랜치에 코드 추가
     }
 
 }
