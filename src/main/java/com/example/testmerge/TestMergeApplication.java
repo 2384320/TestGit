@@ -9,7 +9,7 @@ public class TestMergeApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestMergeApplication.class, args);
 
-        // main 브랜치의 추가 코드
+        // sub 브랜치의 추가 코드
     }
 
 }
